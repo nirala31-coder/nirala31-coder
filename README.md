@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nirala Gupta</h1>
 
 <h3 align="center">
-Computer Science & Information Technology Student | Frontend Developer | C/C++ Programmer
+Computer Science (Information Technology) Student | Frontend Developer | C/C++ Programmer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+&+Information +Technology+Student;Frontend+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
