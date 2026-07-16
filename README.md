@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirala Gupta</h1>
 
 <h3 align="center">
-Computer Science (Information Technology) Student | Frontend Developer | C/C++ Programmer
+Computer Science & Information Technology Student | Frontend Developer | C/C++ Programmer
 </h3>
 
 <p align="center">
