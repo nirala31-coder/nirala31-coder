@@ -143,7 +143,7 @@
 
 <p align="center">
 
-<a href="nirala-gupta-07bb2a346">
+<a href="www.linkedin.com/in/nirala-gupta-07bb2a346">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
