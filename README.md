@@ -1,36 +1,40 @@
 <h1 align="center">Hi 👋, I'm Nirala Gupta</h1>
 
 <h3 align="center">
-Computer Science (Information Technology) Student | Frontend Developer | C/C++ Programmer
+Computer Science & Information Technology Student | Frontend Developer | C/C++ Programmer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+Information +Technology+Student;Frontend+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Information+Technology+Student;Frontend+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 B.Tech in Computer Science (Information Technology)
+🎓 **B.Tech in Computer Science & Information Technology**
 
-🏫 Sagar Institute of Science & Technology, Bhopal
+🏫 **Sagar Institute of Science & Technology (SISTec), Bhopal**
 
-💻 Passionate about Frontend Development & Problem Solving
+💻 Passionate about **Frontend Development**, **C/C++ Programming**, and **Problem Solving**
 
-🌱 Currently learning
+🌱 Currently Learning
 - Data Structures & Algorithms
 - JavaScript
 - Git & GitHub
-- Web Development
+- Modern Web Development
 
-👨‍💻 I enjoy building responsive websites and improving my programming skills.
+👨‍💻 I enjoy creating responsive websites and improving my coding skills.
 
-🎯 Goal: Become a Software Developer and contribute to Open Source.
+🎯 **Aspiring Software Engineer** who loves learning new technologies and building impactful projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### 💻 Languages
 
@@ -38,7 +42,7 @@ Computer Science (Information Technology) Student | Frontend Developer | C/C++ P
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -46,20 +50,20 @@ Computer Science (Information Technology) Student | Frontend Developer | C/C++ P
 
 ---
 
-## 📂 Projects
+# 📂 Featured Projects
 
 ### 🌐 Responsive Web Applications
-Responsive websites using HTML, CSS & JavaScript.
+Built responsive websites using **HTML, CSS, and JavaScript**.
 
-### 💻 C/C++ Programs
-Problem-solving programs and algorithm implementation.
+### 💻 C/C++ Programming
+Implemented algorithms and logic-building programs.
 
 ### 📚 Academic Projects
-Programming projects focused on logic building and software fundamentals.
+Developed programming assignments and practical projects based on computer science fundamentals.
 
 ---
 
-## 🏆 Leadership
+# 🏆 Leadership & Activities
 
 ✨ Training & Placement Committee Member
 
@@ -73,23 +77,27 @@ Programming projects focused on logic building and software fundamentals.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -97,30 +105,53 @@ Programming projects focused on logic building and software fundamentals.
 
 ---
 
-## 🌐 Connect with Me
+# 🛠 Currently Working On
+
+- 🌱 Improving Frontend Development Skills
+- 💻 Solving Data Structures & Algorithms Problems
+- 🚀 Building Responsive Web Projects
+- 📚 Exploring Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/nirala-gupta">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:niralagupta@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> "Keep Learning. Keep Building. Keep Growing."
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
